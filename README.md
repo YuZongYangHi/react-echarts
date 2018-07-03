@@ -2,6 +2,7 @@
 ![image](https://raw.githubusercontent.com/YuZongYangHi/react-echarts/master/2.jpg)
 
 
+![image](https://raw.githubusercontent.com/YuZongYangHi/react-echarts/master/1.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
